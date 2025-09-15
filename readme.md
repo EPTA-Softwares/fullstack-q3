@@ -21,6 +21,14 @@ Autenticação com JWT.
 - Ações (visualizar, editar, reemitir, exportar).
 - Página de criação/edição de vistoria com checklist e observações.
 
+<img width="1440" height="800" alt="Frame" src="https://github.com/user-attachments/assets/e1741207-bb7c-4455-b03e-f77534db61cd" />
+
+<img width="1440" height="762" alt="Frame (1)" src="https://github.com/user-attachments/assets/331dc6d9-d234-468e-a134-abe30cadb4e0" />
+
+<img width="1440" height="898" alt="Frame (2)" src="https://github.com/user-attachments/assets/8e6cae42-db38-41fd-9d32-832d0059b7fd" />
+
+<img width="1440" height="1461" alt="Frame (3)" src="https://github.com/user-attachments/assets/000d2038-5c8a-40d6-882b-989fdb4fef5c" />
+
 ### Veículos
 
 Listagem e CRUD básico de veículos (nome, placa, marca, modelo, ano, proprietário).
