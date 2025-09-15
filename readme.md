@@ -1,5 +1,7 @@
 # 🚗 Prova Técnica — Sistema de Vistorias (Next.js + Nest.js)
 
+Link do Prótotipo -> https://www.figma.com/design/z296qlHk8uC1O7druJ3Miu/Sem-t%C3%ADtulo?node-id=0-1&t=HIAMYKBXsXLinruY-1
+
 Desafio técnico para vaga de Desenvolvedor(a) Fullstack Júnior / Pleno (ajuste o nível na hora de aplicar).
 O objetivo é avaliar domínio em Next.js (front), Nest.js (back), modelagem de dados, autenticação JWT, UX para formulários/relatórios e boas práticas (TypeScript, testes, organização).
 
